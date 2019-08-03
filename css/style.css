@@ -291,7 +291,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/banner_blue.jpeg) no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -341,7 +341,7 @@ button:focus {
     min-height: 780px;
     z-index: 1; }
     .blog_banner .banner_inner .overlay {
-      background: url(../img/banner/banner-2.jpg) no-repeat scroll center center;
+      background: url(../img/banner/banner_blue.jpeg) no-repeat scroll center center;
       opacity: .5;
       height: 125%;
       position: absolute;
@@ -2554,7 +2554,7 @@ h6 {
 .banner_btn {
   padding: 0px 42px;
   line-height: 50px;
-  background-image: linear-gradient(to right, #8490ff 0%, #62bdfc 48%, #8490ff 100%);
+  background-image: linear-gradient(to right, #15274D 0%, #15274D 48%, #15274D 100%);
   background-size: 200% auto;
   color: #fff;
   display: inline-block;
@@ -2984,7 +2984,7 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #000410; }
+  background: #15274D; }
 
 .f_title {
   margin-bottom: 35px; }
