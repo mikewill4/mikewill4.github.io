@@ -74,6 +74,10 @@ button:focus {
   outline: none;
   box-shadow: none; }
 
+.p_60 {
+  padding-top: 60px;
+  padding-bottom: 60px; }
+
 .p_120 {
   padding-top: 120px;
   padding-bottom: 120px; }
@@ -258,7 +262,7 @@ button:focus {
       display: none; }
   .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 70px;
-    color: #222222; }
+    color: #15274D; }
 
 .top_menu {
   background: #ec9d5f; }
@@ -1193,7 +1197,7 @@ button:focus {
     top: 0;
     font-size: 20px;
     line-height: 24px;
-    color: #8490ff;
+    color: #15274D;
     font-weight: 600; }
   .contact_info .info_item h6 {
     font-size: 16px;
@@ -2513,7 +2517,7 @@ h6 {
 .submit_btn {
   width: auto;
   display: inline-block;
-  background-image: linear-gradient(to right, #8490ff 0%, #62bdfc 48%, #8490ff 100%);
+  background-image: linear-gradient(to right, #15274D 0%, #15274D 48%, #15274D 100%);
   background-size: 200% auto;
   padding: 0px 50px;
   color: #fff;
@@ -2843,7 +2847,7 @@ h6 {
     .projects_fillter .filter li:last-child {
       margin-right: 0px; }
     .projects_fillter .filter li.active a {
-      color: #8490ff; }
+      color: #15274D; }
 
 .projects_inner {
   margin-bottom: -30px; }
@@ -2986,7 +2990,7 @@ h6 {
   background: #15274D; }
 
 .f_title {
-  margin-bottom: 35px; }
+  margin-bottom: 20px; }
   .f_title h3 {
     color: #fff;
     font-size: 18px;
