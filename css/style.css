@@ -379,8 +379,8 @@ button:focus {
     position: relative;
     overflow: hidden;
     width: 100%;
-    min-height: 430px;
-    background: #f9f9ff;
+    min-height: 300px;
+    background: #F1FFFF;
     z-index: 1; }
     .banner_area .banner_inner .banner_content {
       margin-top: 70px; }
