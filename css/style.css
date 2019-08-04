@@ -2721,7 +2721,7 @@ h6 {
   border-radius: 5px; }
   .wel_item i {
     font-size: 24px;
-    background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+    background: linear-gradient(to right, #62bdfc 0%, #62bdfc 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
@@ -2770,9 +2770,9 @@ h6 {
         border-radius: 5px;
         vertical-align: middle;
         align-self: center;
-        background-image: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-        background-image: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-        background-image: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%); }
+        background-image: -moz-linear-gradient(0deg, #15274D 0%, #62bdfc 100%);
+        background-image: -webkit-linear-gradient(0deg, #15274D 0%, #62bdfc 100%);
+        background-image: -ms-linear-gradient(0deg, #15274D 0%, #62bdfc 100%); }
 
 /* End Welcome Area css
 ============================================================================================ */
