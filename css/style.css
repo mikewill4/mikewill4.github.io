@@ -2885,7 +2885,7 @@ h6 {
   .projects_item:hover:before {
     opacity: 1; }
   .projects_item:hover .projects_text h4 {
-    background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+    background: linear-gradient(to right, #15274D 0%, #15274D 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
